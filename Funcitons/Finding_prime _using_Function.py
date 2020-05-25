@@ -17,7 +17,3 @@ b=int(input("Enter a upper limit of range - "))
 
 for y in range(a,b+1):
 	isprime(y)
-
-
-
-
